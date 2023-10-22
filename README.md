@@ -1,6 +1,8 @@
 # Canvas Markdown (Obsidian Canvas) Block for Github Next
 
-Open and preview `*.canvas` files created by Obsidian Canvas (https://obsidian.md/canvas).
+This is a [Github Next Block](https://blocks.githubnext.com) to preview and edit `*.canvas` files created by Obsidian Canvas (https://obsidian.md/canvas).
+
+Example preview of a `*.canvas` file: https://blocks.githubnext.com/abstractalgo/canvas-markdown/blob/main/examples/sdk.canvas?blockKey=abstractalgo__canvas-markdown__markdown-canvas-block&fileRef=&fileTree=0
 
 ### TODO
 
